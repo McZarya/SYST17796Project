@@ -1,3 +1,3 @@
 # SYST17796Project
 
-[<img src="https://cdn.discordapp.com/attachments/844961170649645116/857373078479962142/CatJam.gif">]
+<img align="left" alt="CatJam" src="https://mczarya.com/media/Cornsnake5010Vxb5j8k82cM9v8887.png" />
