@@ -6,8 +6,6 @@ import java.util.Scanner; // Package inclusion for Scanner class
 * BlackJackGame.java
 * Black Jack
 *
-* *Description*
-*
 * @authors Matthew Dorie, Michael Spychala, Chris jagernath, Denise Gutierrez Maldonado
 */
 
